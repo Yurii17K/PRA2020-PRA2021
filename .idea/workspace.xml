@@ -19,12 +19,19 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="ProjectId" id="1j9B5WOxCwMGQFnH9rfwtO0uk9r" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="RunManager" selected="JAR Application.Pracownia2020-2021-1.0-SNAPSHOT.jar">
@@ -83,6 +90,13 @@
       <option name="presentableId" value="LOCAL-00004" />
       <option name="project" value="LOCAL" />
       <updated>1603125556172</updated>
+    </task>
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0c837110-60dd-4b5d-ba06-24be9b8044e9" name="Default Changelist" comment="fixed" />
+      <created>1603206245719</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603206245719</updated>
     </task>
     <option name="localTasksCounter" value="5" />
     <servers />
